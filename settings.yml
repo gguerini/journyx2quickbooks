@@ -1,0 +1,3 @@
+journyx_reports: "/Users/gguerini/Desktop/journy/134099611658.txt"
+export_files_to: "exported_files/"
+template_file: "templates/quickbooks_import_file.txt"

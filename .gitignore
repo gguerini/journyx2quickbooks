@@ -11,6 +11,9 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+*.IIF
+/data_files/
+/exported_files/
 
 # YARD artifacts
 .yardoc
