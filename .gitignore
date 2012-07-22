@@ -14,6 +14,7 @@ tmp
 *.IIF
 /data_files/
 /exported_files/
+.DS_Store
 
 # YARD artifacts
 .yardoc
