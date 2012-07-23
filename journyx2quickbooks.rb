@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'yaml'
 require 'awesome_print'
 require 'date'
